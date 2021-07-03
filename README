@@ -1,3 +1,3 @@
-Dumps writable memory given a MacOS pid.
+Dumps writable memory given a MacOS pid without the help of gdb.
 
 Still rough. Just getting started.
